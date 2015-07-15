@@ -12,7 +12,7 @@
 </head>
 <body bgcolor="#cccccc">
 <center>
-  <form action="index.jsp" method="delete">
+  <form action="main.jsp" method="delete">
     <p><input type="submit" value="Удалить"></p>
   </form>
   <table border="2" bgcolor=#f9f0ef cellspacing="3" width="60%">
@@ -45,7 +45,7 @@
           <form action="post.jsp" method="post">
             <p><input type="submit" value="Отправить"></p>
           </form>
-          <form action="index.jsp" method="back">
+          <form action="main.jsp" method="back">
             <p><input id="back" type="submit" value="Назад"></p>
           </form>
         </td>

@@ -1,4 +1,5 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+
 <HTML>
 <HEAD>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -33,8 +34,8 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>n 3</td>
-                    <td>n 4</td>
+                    <td> ${data} </td>
+                    <td>< ${title}></td>
                     <td>
                         <form action="post.jsp" method="go">
                             <p><input id="go1"  type="submit" value="Ссылка"></p>
