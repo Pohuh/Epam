@@ -27,7 +27,7 @@
               <p><input id="create" type="submit" value="Создать запись"></p>
           </div>
       </form>
-      <form action="index.jsp" method="back">
+      <form action="main.jsp" method="back">
           <div>
               <p><input id="back" type="submit" value="Назад"></p>
           </div>
